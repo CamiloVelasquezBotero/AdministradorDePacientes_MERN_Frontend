@@ -8,4 +8,6 @@ Se utilizan Variables de entorno para ocultar informacion delicada.
 Se hace uso de **JsonWebToken** para verificar y obtener el perfil del Veterinario
 ...
 
-proyectoMernFullStack - apv
+### Preview: https://administrador-de-pacientes-mern-frontend.vercel.app/
+### Cuenta de prueba para ingresar: 
+Usuario: prueba@prueba.com  |  Contraseña: passwords
